@@ -7,7 +7,7 @@ class Observer1 implements Observer
 {
     public function update()
     {
-        echo __CLASS__ . ' update ()';
+        echo __CLASS__ . ' update () <br />';
     }
 
 }
