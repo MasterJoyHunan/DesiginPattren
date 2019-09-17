@@ -1,10 +1,10 @@
-package simple_factory;
+package factory_method;
 
 /**
  * @author joy
- * @time 2019/09/03 08:40
+ * @time 2019/09/03 08:36
  */
-public class OperationFactorySub implements OperationFactory {
+public class OperationFactoryAdd implements OperationFactory {
 
     /**
      * 工厂方法模式
@@ -13,6 +13,6 @@ public class OperationFactorySub implements OperationFactory {
      */
     @Override
     public Operation createOperation() {
-        return new OperationSub();
+        return new OperationAdd();
     }
 }
