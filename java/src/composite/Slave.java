@@ -28,7 +28,7 @@ public class Slave extends Employee {
     @Override
     public void display(int dept) {
         for (int i = 0; i < dept; i++) {
-            System.out.print("-");
+            System.out.print("----");
         }
         System.out.println(" 奴隶 [ "+ name +" ] 使劲干活, 功劳都是领导的 ");
     }
