@@ -4,7 +4,7 @@ package decorator;
  * @author joy
  * @time 2019/09/07 10:40
  */
-abstract class SeasoningDecorator implements Seasoning {
+public class SeasoningDecorator implements Seasoning {
 
     private Seasoning seasoning;
 
