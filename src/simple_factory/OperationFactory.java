@@ -3,8 +3,6 @@ package simple_factory;
 
 /**
  * 简单工厂模式
- * @author joy
- * @time 2019/09/03 08:41
  */
 public class OperationFactory {
     public static Operation createOperation(String operate) {
@@ -17,8 +15,10 @@ public class OperationFactory {
                 op = new OperationSub();
                 break;
             case "*":
+                // same thing ...
                 break;
             case "/":
+                // same thing ...
                 break;
         }
         return op;

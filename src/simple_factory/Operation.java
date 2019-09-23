@@ -1,16 +1,19 @@
 package simple_factory;
 
 /**
- * @author joy
- * @time 2019/09/03 08:33
+ * 抽象操作类，所有操作继承该父类
  */
 public abstract class Operation {
     private double numberA;
     private double numberB;
 
-    double calc() throws RuntimeException {
-        return 0.0;
-    }
+    /**
+     * 进行运算
+     *
+     * @return double
+     * @throws RuntimeException
+     */
+    abstract double calc() throws RuntimeException ;
 
     public double getNumberA() {
         return numberA;
@@ -27,7 +30,5 @@ public abstract class Operation {
     public void setNumberB(double numberB) {
         this.numberB = numberB;
     }
-
-
 
 }

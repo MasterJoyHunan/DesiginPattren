@@ -1,8 +1,7 @@
 package simple_factory;
 
 /**
- * @author joy
- * @time 2019/09/03 08:40
+ * 减法操作
  */
 public class OperationSub extends Operation {
 

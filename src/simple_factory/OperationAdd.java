@@ -1,8 +1,7 @@
 package simple_factory;
 
 /**
- * @author joy
- * @time 2019/09/03 08:36
+ * 加法操作
  */
 public class OperationAdd extends Operation {
 

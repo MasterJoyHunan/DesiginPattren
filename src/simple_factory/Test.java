@@ -1,7 +1,7 @@
 package simple_factory;
 
 /**
- * 计算器程序
+ * 工厂实现计算器程序
  */
 public class Test {
     public static void main(String[] args) {
