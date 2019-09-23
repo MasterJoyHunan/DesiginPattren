@@ -1,8 +1,7 @@
 package abstract_factory;
 
 /**
- * @author joy
- * @time 2019/09/17 18:42
+ * 用户服务类
  */
 public interface User {
 

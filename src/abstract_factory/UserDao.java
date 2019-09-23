@@ -1,8 +1,7 @@
 package abstract_factory;
 
 /**
- * @author joy
- * @time 2019/09/17 18:44
+ * 用户实体类
  */
 public class UserDao {
 

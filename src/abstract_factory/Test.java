@@ -1,9 +1,6 @@
 package abstract_factory;
 
-/**
- * @author joy
- * @time 2019/09/17 19:52
- */
+
 public class Test {
 
     public static void main(String[] args) {

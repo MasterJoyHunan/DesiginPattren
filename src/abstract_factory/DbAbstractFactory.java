@@ -2,9 +2,6 @@ package abstract_factory;
 
 /**
  * 抽象工厂模式
- *
- * @author joy
- * @time 2019/09/17 18:51
  */
 public class DbAbstractFactory {
 

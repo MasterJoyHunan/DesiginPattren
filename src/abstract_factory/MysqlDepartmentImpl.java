@@ -1,9 +1,6 @@
 package abstract_factory;
 
-/**
- * @author joy
- * @time 2019/09/17 18:45
- */
+
 public class MysqlDepartmentImpl implements Department {
 
     @Override
