@@ -1,8 +1,7 @@
 package builder;
 
 /**
- * @author joy
- * @time 2019/09/17 11:06
+ * 瘦子克隆人
  */
 public class ThinHumanBuilder extends HumanBuilder {
 

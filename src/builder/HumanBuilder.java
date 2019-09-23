@@ -2,9 +2,6 @@ package builder;
 
 /**
  * 克隆人
- *
- * @author joy
- * @time 2019/09/17 11:02
  */
 abstract class HumanBuilder {
     abstract void buildHeader();
