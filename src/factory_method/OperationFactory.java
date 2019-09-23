@@ -1,13 +1,14 @@
 package factory_method;
 
 /**
- * @author joy
- * @time 2019/09/03 08:41
+ * 工厂方法接口
  */
 interface OperationFactory {
+
     /**
      * 工厂方法模式
-     * @return
+     *
+     * @return Operation
      */
     Operation createOperation();
 }

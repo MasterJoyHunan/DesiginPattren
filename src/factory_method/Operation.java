@@ -1,16 +1,18 @@
 package factory_method;
 
 /**
- * @author joy
- * @time 2019/09/03 08:33
+ * 运算抽象类
  */
 public abstract class Operation {
     private double numberA;
     private double numberB;
 
-    double calc() throws RuntimeException {
-        return 0.0;
-    }
+    /**
+     * 抽象计算方法
+     * @return double
+     * @throws RuntimeException
+     */
+    abstract double calc() throws RuntimeException;
 
     public double getNumberA() {
         return numberA;
@@ -27,7 +29,4 @@ public abstract class Operation {
     public void setNumberB(double numberB) {
         this.numberB = numberB;
     }
-
-
-
 }

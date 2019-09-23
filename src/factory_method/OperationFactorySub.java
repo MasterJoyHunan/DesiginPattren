@@ -1,16 +1,10 @@
 package factory_method;
 
 /**
- * @author joy
- * @time 2019/09/03 08:40
+ * 减法运算工厂
  */
 public class OperationFactorySub implements OperationFactory {
 
-    /**
-     * 工厂方法模式
-     *
-     * @return
-     */
     @Override
     public Operation createOperation() {
         return new OperationSub();

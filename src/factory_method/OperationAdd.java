@@ -1,8 +1,7 @@
 package factory_method;
 
 /**
- * @author joy
- * @time 2019/09/03 08:36
+ * 加法运算类
  */
 public class OperationAdd extends Operation {
 
