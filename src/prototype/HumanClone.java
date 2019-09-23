@@ -1,8 +1,7 @@
 package prototype;
 
 /**
- * @author joy
- * @time 2019/09/16 19:47
+ * 原型模式
  */
 public class HumanClone implements Cloneable {
     private String name;

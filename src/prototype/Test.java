@@ -1,13 +1,7 @@
 package prototype;
 
-/**
- * @author joy
- * @time 2019/09/16 19:58
- */
 public class Test {
-
     public static void main(String[] args) {
-
         HumanClone clone  = new HumanClone("joy", "male", 18);
         clone.setJob("看家护院");
         HumanClone clone2 = (HumanClone) clone.clone();
@@ -19,7 +13,5 @@ public class Test {
         System.out.println(clone);
         System.out.println(clone2);
         System.out.println(clone3);
-
-
     }
 }
