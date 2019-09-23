@@ -1,10 +1,7 @@
 package singleton;
 
 /**
- * 单例
- *
- * @author joy
- * @time 2019/09/19 13:44
+ * 单例模式
  */
 public class Singleton {
 
@@ -20,6 +17,4 @@ public class Singleton {
         }
         return singleton;
     }
-
-
 }

@@ -1,9 +1,6 @@
 package singleton;
 
-/**
- * @author joy
- * @time 2019/09/19 14:03
- */
+
 public class Test {
 
     public static void main(String[] args) {
