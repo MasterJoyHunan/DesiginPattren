@@ -1,8 +1,7 @@
 package bridge;
 
 /**
- * @author joy
- * @time 2019/09/19 15:05
+ * 学生实现
  */
 public class Student {
 

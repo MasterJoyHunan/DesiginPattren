@@ -1,8 +1,7 @@
 package bridge;
 
 /**
- * @author joy
- * @time 2019/09/19 15:06
+ * 学校实现
  */
 public class HunanUniversity extends School {
 

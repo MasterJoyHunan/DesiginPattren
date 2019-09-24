@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author joy
- * @time 2019/09/19 15:04
+ * 学校抽象，学校聚合多个班级
  */
 abstract class School {
 

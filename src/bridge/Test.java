@@ -1,9 +1,6 @@
 package bridge;
 
-/**
- * @author joy
- * @time 2019/09/19 15:32
- */
+
 public class Test {
 
     public static void main(String[] args) {

@@ -1,8 +1,7 @@
 package bridge;
 
 /**
- * @author joy
- * @time 2019/09/19 15:14
+ * 班级实现
  */
 public class PhysicsClass extends Class {
 
