@@ -43,7 +43,7 @@
 + [模板方法模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/template_method)
 > 定义一个操作中算法的骨架，而将一些步骤延迟到子类中。模板方法使得子类可以不改变一个算法的结构即可重定义该算法的某些特定步骤
 + [命令模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/command)
-> 
+> 将一个请求封装为一个对象，从而使你可以用不同的请求对客户进行参数化，对请求排队或记录请求日志，以及可撤销操作
 + [状态模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/state)
 > 
 + [责任链模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/chain_of_responsibility)

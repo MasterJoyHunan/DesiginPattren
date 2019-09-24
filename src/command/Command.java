@@ -4,15 +4,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author joy
- * @time 2019/09/20 08:38
+ * 命令模式抽象
  */
 abstract class Command {
 
-    protected List<Developer> developer = new ArrayList<>();
+    protected List<Developer> developers = new ArrayList<>();
 
     public void add(Developer developer) {
-        this.developer.add(developer);
+        developers.add(developer);
     }
 
     public abstract void exec(String command);

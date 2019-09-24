@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author joy
- * @time 2019/09/20 09:00
+ * 发布命令的领导
  */
 public class Leader {
 

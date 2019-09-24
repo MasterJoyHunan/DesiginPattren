@@ -1,15 +1,14 @@
 package command;
 
-/**
- * @author joy
- * @time 2019/09/20 09:03
- */
+
 public class Test {
 
     public static void main(String[] args) {
         Leader    leader = new Leader();
         Developer joy    = new Developer();
+        joy.setName("joy");
         Developer bobo   = new Developer();
+        bobo.setName("bobo");
         Command work = new  WorkCommand();
         Command life = new LifeCommand();
 

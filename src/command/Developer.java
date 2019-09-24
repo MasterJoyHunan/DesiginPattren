@@ -1,8 +1,7 @@
 package command;
 
 /**
- * @author joy
- * @time 2019/09/20 08:39
+ * 可怜的程序员
  */
 public class Developer {
 
@@ -17,10 +16,10 @@ public class Developer {
     }
 
     public void work(String some) {
-        System.out.println("上班时间, 努力工作 加班......");
+        System.out.println(name + "上班时间, 努力工作");
     }
 
     public void life(String some) {
-        System.out.println("下班时间, 努力工作 加班......");
+        System.out.println(name + "下班时间, 加班工作......");
     }
 }
