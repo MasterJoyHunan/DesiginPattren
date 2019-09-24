@@ -45,7 +45,7 @@
 + [命令模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/command)
 > 将一个请求封装为一个对象，从而使你可以用不同的请求对客户进行参数化，对请求排队或记录请求日志，以及可撤销操作
 + [状态模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/state)
-> 
+> 当一个对象的内在状态改变时允许改变其行为，这个对象看起来像改变了其类
 + [责任链模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/chain_of_responsibility)
 > 
 + [解释器模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/interpreter)

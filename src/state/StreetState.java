@@ -1,8 +1,7 @@
 package state;
 
 /**
- * @author joy
- * @time 2019/09/18 09:12
+ * 判断是否属于街道
  */
 public class StreetState implements State {
 

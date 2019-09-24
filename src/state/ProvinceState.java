@@ -1,8 +1,7 @@
 package state;
 
 /**
- * @author joy
- * @time 2019/09/18 09:10
+ * 判断是否属于省
  */
 public class ProvinceState implements State {
 

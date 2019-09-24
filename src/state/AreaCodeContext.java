@@ -1,8 +1,7 @@
 package state;
 
 /**
- * @author joy
- * @time 2019/09/18 09:12
+ * 状态上下文
  */
 public class AreaCodeContext {
 

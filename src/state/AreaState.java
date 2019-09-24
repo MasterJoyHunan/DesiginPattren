@@ -1,8 +1,7 @@
 package state;
 
 /**
- * @author joy
- * @time 2019/09/18 09:11
+ * 判断是否属于县区
  */
 public class AreaState implements State {
 
