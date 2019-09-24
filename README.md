@@ -5,7 +5,9 @@
 + 依赖倒置：一个类，不应该强依赖另一个类，每个类对另一个类都是可替换的（面向接口编程）
 + 里氏替换：子类继承父类，不应该替换父类的方法
 + 迪米特法则：在类的结构设计上，每一个类都尽量降低成员的访问权限。强化类之间的松耦合
++ 合成/聚合复用：尽量使用合成/聚合，尽量不要使用类继承
 + 配置化: 尽可能使用配置， 而不硬编码
+
 
 # 创建模式
 + [简单工厂模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/simple_factory)
@@ -24,7 +26,7 @@
 + [适配器模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/adapter)
 > 将一个类的接口转换成客户希望的另外一个接口，使得原本不兼容而不能一起工作的那些类可以一起工作
 + [装饰模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/decorator)
-> 
+> 动态的给一个对象添加一些额外的职责，就增加功能来说，比生成子类更为灵活
 + [桥接模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/bridge)
 > 
 + [组合模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/composite)

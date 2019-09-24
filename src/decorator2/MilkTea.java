@@ -4,10 +4,7 @@ package decorator2;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author joy
- * @time 2019/09/07 10:47
- */
+
 public class MilkTea implements SeasoningDecorator {
 
     private List<SeasoningDecorator> seasonings = new ArrayList<>();
