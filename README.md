@@ -34,7 +34,7 @@
 + [享元模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/flyweight)
 > 运用共享技术有效的支持大量细粒度的对象
 + [代理模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/proxy)
-> 
+> 为其他对象提供一种代理已控制对这个对象的访问
 + [外观模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/facade)
 > 
 # 行为型模式
