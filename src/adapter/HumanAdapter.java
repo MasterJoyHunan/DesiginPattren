@@ -1,8 +1,7 @@
 package adapter;
 
 /**
- * @author joy
- * @time 2019/09/18 17:13
+ * 翻译官
  */
 public class HumanAdapter implements Adapter {
 
