@@ -49,7 +49,7 @@
 + [责任链模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/chain_of_responsibility)
 > 使多个对象都有机会处理请求，从而避免请求发送者和接收者之间的耦合关系，将这个对象连成一条链，并沿着这条链传递该请求，直到有一个对象处理它为止
 + [解释器模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/interpreter)
-> 
+> 给定一个语言，定义它的文法的一种表示，并定义一个解释器，这个解释器使用该表示来解释语言中的句子
 + [中介者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/mediator)
 > 
 + [访问者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/vositor)

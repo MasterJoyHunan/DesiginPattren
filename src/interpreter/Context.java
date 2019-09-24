@@ -3,8 +3,7 @@ package interpreter;
 import java.util.Map;
 
 /**
- * @author joy
- * @time 2019/09/21 11:24
+ * 全局上下文
  */
 public class Context {
 

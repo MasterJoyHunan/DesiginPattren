@@ -1,8 +1,7 @@
 package interpreter;
 
 /**
- * @author joy
- * @time 2019/09/21 11:41
+ * Sql解释器
  */
 public interface SqlExpression {
 

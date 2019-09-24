@@ -3,8 +3,7 @@ package interpreter;
 import java.util.Map;
 
 /**
- * @author joy
- * @time 2019/09/21 11:45
+ * 增
  */
 public class InsertExpression implements SqlExpression {
 

@@ -3,10 +3,6 @@ package interpreter;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author joy
- * @time 2019/09/21 11:47
- */
 public class Test {
 
     public static void main(String[] args) {
@@ -24,7 +20,6 @@ public class Test {
 
         SqlExpression insert = new InsertExpression();
         insert.interpret(context);
-
 
         SqlExpression update = new UpdateExpression();
         update.interpret(context);

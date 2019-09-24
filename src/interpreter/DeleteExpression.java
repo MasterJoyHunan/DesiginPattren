@@ -1,8 +1,7 @@
 package interpreter;
 
 /**
- * @author joy
- * @time 2019/09/21 11:46
+ * 删
  */
 public class DeleteExpression implements SqlExpression {
 
