@@ -1,8 +1,7 @@
 package template_method;
 
 /**
- * @author joy
- * @time 2019/09/16 20:19
+ * 组装超级计算机
  */
 public class SuperComputeTemplate extends ComputeTemplate {
 

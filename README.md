@@ -41,7 +41,7 @@
 + [观察者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/observer)
 > 定义了一种一对多的依赖关系，让多个观察者对象同时监听某一个主题对象。这个主题对象在状态发生变化时，会通知所有的观察者对象，使他们能够自动更新自己
 + [模板方法模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/template_method)
-> 
+> 定义一个操作中算法的骨架，而将一些步骤延迟到子类中。模板方法使得子类可以不改变一个算法的结构即可重定义该算法的某些特定步骤
 + [命令模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/command)
 > 
 + [状态模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/state)

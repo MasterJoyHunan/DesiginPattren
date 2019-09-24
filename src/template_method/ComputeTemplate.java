@@ -1,8 +1,8 @@
 package template_method;
 
 /**
- * @author joy
- * @time 2019/09/16 20:13
+ * 模板方法抽象
+ * -- 组装电脑
  */
 abstract class ComputeTemplate {
 
@@ -21,5 +21,4 @@ abstract class ComputeTemplate {
         installPower();
         System.out.println("组装完毕, 开始点亮开机");
     }
-
 }

@@ -1,8 +1,7 @@
 package template_method;
 
 /**
- * @author joy
- * @time 2019/09/16 20:21
+ * 组装个人电脑
  */
 public class MicrocomputerTemplate extends ComputeTemplate {
 
