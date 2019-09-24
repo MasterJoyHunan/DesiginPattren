@@ -5,9 +5,6 @@ import java.util.List;
 
 /**
  * 领导
- *
- * @author joy
- * @time 2019/09/18 20:11
  */
 public class Leader extends Employee {
 

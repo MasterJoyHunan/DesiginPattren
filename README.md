@@ -28,9 +28,9 @@
 + [装饰模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/decorator)
 > 动态的给一个对象添加一些额外的职责，就增加功能来说，比生成子类更为灵活
 + [桥接模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/bridge)
-> 
+> 将抽象部分与它的实现部分分离，使它们可以独立的变化
 + [组合模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/composite)
-> 
+> 将对象组合成树形结构以表示‘部分’-‘整体’的层次结构。组合模式使得用户对单个对象和组合对象的使用具有一致性
 + [享元模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/flyweight)
 > 
 + [代理模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/proxy)

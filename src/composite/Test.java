@@ -1,9 +1,6 @@
 package composite;
 
-/**
- * @author joy
- * @time 2019/09/18 20:17
- */
+
 public class Test {
 
     public static void main(String[] args) {

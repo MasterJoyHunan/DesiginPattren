@@ -1,8 +1,7 @@
 package composite;
 
 /**
- * @author joy
- * @time 2019/09/18 20:08
+ * 雇员
  */
 abstract class Employee {
 

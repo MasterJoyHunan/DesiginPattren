@@ -2,9 +2,6 @@ package composite;
 
 /**
  * 打工仔
- *
- * @author joy
- * @time 2019/09/18 20:11
  */
 public class Slave extends Employee {
 
