@@ -1,8 +1,7 @@
 package decorator;
 
 /**
- * @author joy
- * @time 2019/09/07 10:46
+ * 加冰
  */
 public class IceSeasoning extends SeasoningDecorator {
 

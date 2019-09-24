@@ -1,8 +1,7 @@
 package decorator;
 
 /**
- * @author joy
- * @time 2019/09/07 10:40
+ * 装饰器抽象
  */
 public class SeasoningDecorator implements Seasoning {
 
@@ -21,6 +20,8 @@ public class SeasoningDecorator implements Seasoning {
 
     @Override
     public void addSeasoning() {
-        seasoning.addSeasoning();
+        if (seasoning != null) {
+            seasoning.addSeasoning();
+        }
     }
 }

@@ -1,9 +1,7 @@
 package decorator;
 
-
 /**
- * @author joy
- * @time 2019/09/07 10:47
+ * 基本奶茶
  */
 public class MilkTea implements Seasoning {
 
