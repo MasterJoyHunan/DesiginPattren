@@ -1,8 +1,7 @@
 package flyweight;
 
 /**
- * @author joy
- * @time 2019/09/21 08:58
+ * 肉食
  */
 public class Steak implements Flyweight {
 

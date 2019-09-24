@@ -32,7 +32,7 @@
 + [组合模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/composite)
 > 将对象组合成树形结构以表示‘部分’-‘整体’的层次结构。组合模式使得用户对单个对象和组合对象的使用具有一致性
 + [享元模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/flyweight)
-> 
+> 运用共享技术有效的支持大量细粒度的对象
 + [代理模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/proxy)
 > 
 + [外观模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/facade)

@@ -1,9 +1,5 @@
 package flyweight;
 
-/**
- * @author joy
- * @time 2019/09/21 09:17
- */
 public class Test {
 
     public static void main(String[] args) {
@@ -19,8 +15,5 @@ public class Test {
 
         Flyweight greens2 = FlyweightFactory.getFlyweight(Greens.class.getName());
         greens2.giveFood(new Slave("jack"));
-
-        System.out.println(steak1 == steak2);
-        System.out.println(greens1 == greens2);
     }
 }

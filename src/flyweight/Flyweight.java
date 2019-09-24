@@ -1,8 +1,8 @@
 package flyweight;
 
 /**
- * @author joy
- * @time 2019/09/21 08:33
+ * 享元模式
+ * -- 食堂打菜
  */
 public interface Flyweight {
 

@@ -1,8 +1,7 @@
 package flyweight;
 
 /**
- * @author joy
- * @time 2019/09/21 09:00
+ * 绿色食品
  */
 public class Greens implements Flyweight {
 

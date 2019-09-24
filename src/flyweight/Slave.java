@@ -1,8 +1,7 @@
 package flyweight;
 
 /**
- * @author joy
- * @time 2019/09/21 09:25
+ * 奴隶
  */
 public class Slave {
 
