@@ -1,8 +1,7 @@
 package facade;
 
 /**
- * @author joy
- * @time 2019/09/17 10:44
+ * 安全系统
  */
 public class SecuritySystem {
 

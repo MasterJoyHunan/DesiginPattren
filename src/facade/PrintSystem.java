@@ -1,8 +1,7 @@
 package facade;
 
 /**
- * @author joy
- * @time 2019/09/17 10:46
+ * 打印系统
  */
 public class PrintSystem {
 

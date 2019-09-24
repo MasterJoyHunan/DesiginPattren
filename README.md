@@ -36,7 +36,7 @@
 + [代理模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/proxy)
 > 为其他对象提供一种代理已控制对这个对象的访问
 + [外观模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/facade)
-> 
+> 为子系统提供一致的界面，此模式定义了一个高层接口，这个接口使得这一子系统更加容易使用
 # 行为型模式
 + [观察者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/observer)
 > 
