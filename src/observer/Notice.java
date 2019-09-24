@@ -2,9 +2,6 @@ package observer;
 
 /**
  * 通知者
- *
- * @author joy
- * @time 2019/09/17 14:43
  */
 interface Notice {
     /**

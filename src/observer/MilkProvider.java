@@ -5,9 +5,6 @@ import java.util.List;
 
 /**
  * 牛奶供应商
- *
- * @author joy
- * @time 2019/09/17 14:51
  */
 public class MilkProvider implements Notice {
 

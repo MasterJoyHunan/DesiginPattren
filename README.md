@@ -39,7 +39,7 @@
 > 为子系统提供一致的界面，此模式定义了一个高层接口，这个接口使得这一子系统更加容易使用
 # 行为型模式
 + [观察者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/observer)
-> 
+> 定义了一种一对多的依赖关系，让多个观察者对象同时监听某一个主题对象。这个主题对象在状态发生变化时，会通知所有的观察者对象，使他们能够自动更新自己
 + [模板方法模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/template_method)
 > 
 + [命令模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/command)

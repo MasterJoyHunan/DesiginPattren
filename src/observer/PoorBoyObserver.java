@@ -2,9 +2,6 @@ package observer;
 
 /**
  * 穷人家的孩子订牛奶
- *
- * @author joy
- * @time 2019/09/17 14:56
  */
 public class PoorBoyObserver implements Observer {
     @Override

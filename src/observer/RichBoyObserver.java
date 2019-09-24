@@ -2,9 +2,6 @@ package observer;
 
 /**
  * 有钱人家的孩子
- *
- * @author joy
- * @time 2019/09/17 14:53
  */
 public class RichBoyObserver implements Observer {
 
