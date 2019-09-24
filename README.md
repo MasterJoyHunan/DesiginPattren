@@ -47,7 +47,7 @@
 + [状态模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/state)
 > 当一个对象的内在状态改变时允许改变其行为，这个对象看起来像改变了其类
 + [责任链模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/chain_of_responsibility)
-> 
+> 使多个对象都有机会处理请求，从而避免请求发送者和接收者之间的耦合关系，将这个对象连成一条链，并沿着这条链传递该请求，直到有一个对象处理它为止
 + [解释器模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/interpreter)
 > 
 + [中介者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/mediator)

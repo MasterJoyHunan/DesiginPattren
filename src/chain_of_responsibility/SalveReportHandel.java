@@ -1,8 +1,7 @@
 package chain_of_responsibility;
 
 /**
- * @author joy
- * @time 2019/09/20 16:19
+ * 奴隶提交报告
  */
 public class SalveReportHandel extends ReportHandel {
 

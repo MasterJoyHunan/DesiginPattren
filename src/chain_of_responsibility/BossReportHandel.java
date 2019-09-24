@@ -1,8 +1,7 @@
 package chain_of_responsibility;
 
 /**
- * @author joy
- * @time 2019/09/20 16:22
+ * BOSS处理意见
  */
 public class BossReportHandel extends ReportHandel {
 
