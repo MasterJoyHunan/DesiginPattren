@@ -59,4 +59,4 @@
 + [备忘录模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/facade)
 > 不破坏封装性的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态。这样以后就可以将该对象恢复到原先状态
 + [迭代器模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/memento)
-> 
+> 提供一种方法顺序访问一个聚合对象中各个元素，而不暴露改对象的内部表示

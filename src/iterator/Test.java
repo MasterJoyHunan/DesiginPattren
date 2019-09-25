@@ -1,9 +1,6 @@
 package iterator;
 
-/**
- * @author joy
- * @time 2019/09/19 09:25
- */
+
 public class Test {
 
     public static void main(String[] args) {

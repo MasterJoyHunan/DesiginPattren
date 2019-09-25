@@ -2,9 +2,6 @@ package iterator;
 
 /**
  * 迭代器
- *
- * @author joy
- * @time 2019/09/19 09:09
  */
 public interface Iterator {
 

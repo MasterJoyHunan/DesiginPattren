@@ -2,9 +2,6 @@ package iterator;
 
 /**
  * 迭代实现
- *
- * @author joy
- * @time 2019/09/19 09:16
  */
 public class ClassmateIterator implements Iterator {
 

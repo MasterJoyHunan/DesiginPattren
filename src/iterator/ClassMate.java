@@ -2,9 +2,6 @@ package iterator;
 
 /**
  * 聚集对象容器
- *
- * @author joy
- * @time 2019/09/19 09:20
  */
 public class ClassMate implements Aggregate {
 
