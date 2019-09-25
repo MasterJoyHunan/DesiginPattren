@@ -1,8 +1,7 @@
 package vositor;
 
 /**
- * @author joy
- * @time 2019/09/21 14:44
+ * 数据结构抽象，不随意变动
  */
 public interface Human {
 

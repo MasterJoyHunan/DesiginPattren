@@ -53,7 +53,7 @@
 + [中介者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/mediator)
 > 用一个中介对象来封装一系列的对象交互，中介者使各对象不需要显式的相互引用，从而使其耦合松散，而且可以独立的改变他们之间的交互
 + [访问者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/vositor)
-> 
+> 表示一个作用于某个对象结构中的各元素的操作。它使你可以在不改变各元素的类的前提下定义作用于这些元素的新操作
 + [策略模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/strategy)
 > 
 + [备忘录模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/facade)

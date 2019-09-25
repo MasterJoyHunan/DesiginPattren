@@ -1,8 +1,8 @@
 package vositor;
 
 /**
- * @author joy
- * @time 2019/09/21 14:47
+ * 算法
+ * -- 热天
  */
 public class SummerVisitor implements Visitor {
 
@@ -17,5 +17,4 @@ public class SummerVisitor implements Visitor {
         System.out.println(female.getClass().getName());
         System.out.println("穿清凉的衣服");
     }
-
 }

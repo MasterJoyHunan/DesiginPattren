@@ -1,8 +1,8 @@
 package vositor;
 
 /**
- * @author joy
- * @time 2019/09/21 15:11
+ * 算法
+ * -- 鲜花
  */
 public class FlowerVisitor implements Visitor {
 

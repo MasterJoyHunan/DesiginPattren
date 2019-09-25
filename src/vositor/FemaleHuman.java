@@ -1,8 +1,7 @@
 package vositor;
 
 /**
- * @author joy
- * @time 2019/09/21 14:54
+ * 女人
  */
 public class FemaleHuman implements Human {
 
@@ -10,6 +9,4 @@ public class FemaleHuman implements Human {
     public void getAdvice(Visitor visitor) {
         visitor.advice(this);
     }
-
-
 }

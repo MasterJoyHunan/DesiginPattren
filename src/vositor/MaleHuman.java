@@ -1,8 +1,7 @@
 package vositor;
 
 /**
- * @author joy
- * @time 2019/09/21 14:52
+ * 男人
  */
 public class MaleHuman implements Human{
 

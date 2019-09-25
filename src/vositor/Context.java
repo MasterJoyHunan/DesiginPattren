@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author joy
- * @time 2019/09/21 15:02
+ * 高层接口
  */
 public class Context {
 
@@ -14,7 +13,6 @@ public class Context {
     public void add(Human human) {
         humans.add(human);
     }
-
 
     public void remove(Human human) {
         humans.remove(human);
@@ -27,5 +25,4 @@ public class Context {
             human.getAdvice(visitor);
         }
     }
-
 }

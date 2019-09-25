@@ -1,8 +1,7 @@
 package vositor;
 
 /**
- * @author joy
- * @time 2019/09/21 14:45
+ * 算法抽象
  */
 public interface Visitor {
 
