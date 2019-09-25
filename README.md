@@ -55,7 +55,7 @@
 + [访问者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/vositor)
 > 表示一个作用于某个对象结构中的各元素的操作。它使你可以在不改变各元素的类的前提下定义作用于这些元素的新操作
 + [策略模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/strategy)
-> 
+> 定义了算法家族，分别封装起来，让他们之间可以互相替换，此模式让算法的变化，不会影响到使用算法的客户
 + [备忘录模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/facade)
 > 
 + [迭代器模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/memento)

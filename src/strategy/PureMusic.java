@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author joy
- * @time 2019/09/05 19:31
+ * 纯音乐
  */
 public class PureMusic implements MusicListStrategy {
 

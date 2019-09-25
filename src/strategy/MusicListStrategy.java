@@ -3,8 +3,7 @@ package strategy;
 import java.util.List;
 
 /**
- * @author joy
- * @time 2019/09/05 19:28
+ * 音乐算法
  */
 public interface MusicListStrategy {
     /**

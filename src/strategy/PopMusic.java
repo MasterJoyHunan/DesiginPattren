@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author joy
- * @time 2019/09/05 19:31
+ * 流行音乐
  */
 public class PopMusic implements MusicListStrategy {
 
