@@ -1,16 +1,13 @@
 package mediator;
 
 /**
- * @author joy
- * @time 2019/09/20 18:02
+ * 共军
  */
 public class GongArmy extends Army {
 
-    public GongArmy(Traitor traitor) {
-        super(traitor);
+    public GongArmy(Spy spy) {
+        super(spy);
     }
-
-
 
     @Override
     public void receiveMsg(String msg) {

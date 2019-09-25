@@ -1,19 +1,18 @@
 package mediator;
 
 /**
- * @author joy
- * @time 2019/09/20 17:48
+ * 军队抽象
  */
 public abstract class Army {
 
-    protected Traitor traitor;
+    protected Spy spy;
 
-    public Army(Traitor traitor) {
-        this.traitor = traitor;
+    public Army(Spy spy) {
+        this.spy = spy;
     }
 
     public void talk(String msg) {
-        traitor.talk(msg, this);
+        spy.sendMsg(msg, this);
     }
 
     public abstract void receiveMsg(String msg);

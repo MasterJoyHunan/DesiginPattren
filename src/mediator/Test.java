@@ -1,13 +1,10 @@
 package mediator;
 
-/**
- * @author joy
- * @time 2019/09/20 19:04
- */
+
 public class Test {
 
     public static void main(String[] args) {
-        MrWangTraitor wang = new MrWangTraitor();
+        MrWangSpy wang = new MrWangSpy();
 
         HuangArmy huang = new HuangArmy(wang);
         GongArmy gong = new GongArmy(wang);
@@ -15,8 +12,7 @@ public class Test {
         wang.setGongJun(gong);
         wang.setHuangJun(huang);
 
-        huang.talk("我要进行918事变");
+        huang.talk("我们要偷袭珍珠港");
         gong.talk("二营长, 你他娘的意大利炮呢");
-
     }
 }

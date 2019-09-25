@@ -1,16 +1,13 @@
 package mediator;
 
 /**
- * @author joy
- * @time 2019/09/20 18:01
+ * 皇军
  */
 public class HuangArmy extends Army {
 
-    public HuangArmy(Traitor traitor) {
-        super(traitor);
+    public HuangArmy(Spy spy) {
+        super(spy);
     }
-
-
 
     @Override
     public void receiveMsg(String msg) {

@@ -1,12 +1,9 @@
 package mediator;
 
 /**
- * 汪精卫
- *
- * @author joy
- * @time 2019/09/20 17:53
+ * 汪先生
  */
-public class MrWangTraitor implements Traitor {
+public class MrWangSpy implements Spy {
 
     /**
      * 皇军
@@ -28,11 +25,11 @@ public class MrWangTraitor implements Traitor {
     }
 
     @Override
-    public void talk(String msg, Army army) {
+    public void sendMsg(String msg, Army army) {
         if (army == huangJun) {
-            gongJun.receiveMsg("皇军托我给您带个话 : " + msg);
+            gongJun.receiveMsg("获取到日军情报 : " + msg);
         } else {
-            huangJun.receiveMsg("八路军跟我说 : " + msg);
+            huangJun.receiveMsg("散布假情报 : " + msg);
         }
     }
 }

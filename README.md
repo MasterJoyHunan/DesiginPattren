@@ -51,7 +51,7 @@
 + [解释器模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/interpreter)
 > 给定一个语言，定义它的文法的一种表示，并定义一个解释器，这个解释器使用该表示来解释语言中的句子
 + [中介者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/mediator)
-> 
+> 用一个中介对象来封装一系列的对象交互，中介者使各对象不需要显式的相互引用，从而使其耦合松散，而且可以独立的改变他们之间的交互
 + [访问者模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/vositor)
 > 
 + [策略模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/strategy)
