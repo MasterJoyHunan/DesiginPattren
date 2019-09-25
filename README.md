@@ -57,6 +57,6 @@
 + [策略模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/strategy)
 > 定义了算法家族，分别封装起来，让他们之间可以互相替换，此模式让算法的变化，不会影响到使用算法的客户
 + [备忘录模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/facade)
-> 
+> 不破坏封装性的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态。这样以后就可以将该对象恢复到原先状态
 + [迭代器模式](https://github.com/MasterJoyHunan/DesiginPattren/tree/master/src/memento)
 > 

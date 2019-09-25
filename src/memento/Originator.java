@@ -2,9 +2,6 @@ package memento;
 
 /**
  * 发起人
- *
- * @author joy
- * @time 2019/09/18 19:17
  */
 public class Originator {
 

@@ -1,10 +1,7 @@
 package memento;
 
 /**
- * 看管者
- *
- * @author joy
- * @time 2019/09/18 19:18
+ * 保管者
  */
 public class Caretaker {
 
